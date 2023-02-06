@@ -12,7 +12,9 @@
 第九种bilibilias—— https://api.misakamoe.com/app/ 
 第十种忻视Down—— https://yos-x.github.io/ 
 第十一种bilihub——https://github.com/LeonNOV/BiliHub
-第十二种bili_you——https://github.com/lucinhu/bili_you
+第十二种
+bili_you
+https://github.com/lucinhu/bili_you
 
 
 
